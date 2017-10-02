@@ -1,0 +1,6 @@
+<version>
+<lastupdateYYMMDD>171002</lastupdateYYMMDD>
+<versionurl>https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/updatelist.txt</updateurl>
+<message>[First Public Build!]<message>
+</version>

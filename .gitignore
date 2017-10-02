@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!CardImageURLs.txt
+!plugininfo.txt
+!pluginpreferences.txt
+!updatelist.txt
+!version.txt
+!sets/
+!sets/Advent_of_Demons.txt
+!sets/setimages/
+!sets/setimages/general/
+!sets/setimages/general/cardback.png

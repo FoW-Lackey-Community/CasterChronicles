@@ -1,0 +1,14 @@
+CasterChronicles  10-02-17
+
+plugins/CasterChronicles/plugininfo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/plugininfo.txt	351959
+plugins/CasterChronicles/version.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/version.txt	27896
+plugins/CasterChronicles/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/sets/setimages/cardback.png	-181008
+plugins/CasterChronicles/pluginpreferences.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/pluginpreferences.txt	256007
+plugins/CasterChronicles/updatelist.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/updatelist.txt	105982
+
+plugins/CasterChronicles/sets/Advent_of_Demons.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/sets/Advent_of_Demons.txt	3552745
+
+plugins/CasterChronicles/CardImageURLs.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/CardImageURLs.txt	1402847
+
+CardURLFiles:
+CardImageURLs.txt

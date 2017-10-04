@@ -1,4 +1,4 @@
-CasterChronicles  10-02-17
+CasterChronicles	10-02-17
 
 plugins/CasterChronicles/plugininfo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/plugininfo.txt	351959
 plugins/CasterChronicles/version.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/version.txt	27896

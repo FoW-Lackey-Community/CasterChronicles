@@ -1,10 +1,10 @@
-CasterChronicles	10-03-17
+CasterChronicles	10-23-17
 
-plugins/CasterChronicles/plugininfo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/plugininfo.txt	351959
-plugins/CasterChronicles/version.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/version.txt	27896
+plugins/CasterChronicles/plugininfo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/plugininfo.txt	355046
+plugins/CasterChronicles/version.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/version.txt	32016
 plugins/CasterChronicles/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/sets/setimages/general/cardback.png	-181008
-plugins/CasterChronicles/pluginpreferences.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/pluginpreferences.txt	256007
-plugins/CasterChronicles/updatelist.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/updatelist.txt	105982
+plugins/CasterChronicles/pluginpreferences.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/pluginpreferences.txt	250996
+plugins/CasterChronicles/updatelist.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/updatelist.txt	106757
 
 plugins/CasterChronicles/sets/Advent_of_Demons.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/sets/Advent_of_Demons.txt	3552745
 

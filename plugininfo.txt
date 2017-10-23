@@ -88,7 +88,7 @@
 		<kind>TRANSFERCARD</kind>
 		<sourceowner>performer</sourceowner>
 		<sourcegamezone>Orb Zone</sourcegamezone>
-		<sourceposition>top</sourceposition>
+		<sourceposition>random</sourceposition>
 		<destinationowner>performer</destinationowner>
 		<destinationgamezone>Hand</destinationgamezone>
 		<destinationposition>top</destinationposition>

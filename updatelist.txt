@@ -1,4 +1,4 @@
-CasterChronicles	10-23-17
+CasterChronicles	05-05-18
 
 plugins/CasterChronicles/plugininfo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/plugininfo.txt	355046
 plugins/CasterChronicles/version.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/version.txt	32016
@@ -7,8 +7,10 @@ plugins/CasterChronicles/pluginpreferences.txt	https://raw.githubusercontent.com
 plugins/CasterChronicles/updatelist.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/updatelist.txt	106757
 
 plugins/CasterChronicles/sets/Advent_of_Demons.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/sets/Advent_of_Demons.txt	3552745
+plugins/CasterChronicles/sets/Dimension_Battle_Royal.txt	https://raw.githubusercontent.com/topduckteam/CasterChronicles/master/sets/Dimension_Battle_Royal.txt	2439777
+plugins/CasterChronicles/sets/Magical_Girl_Raising_Project.txt	https://raw.githubusercontent.com/topduckteam/CasterChronicles/master/sets/Magical_Girl_Raising_Project.txt	1454324
 
-plugins/CasterChronicles/CardImageURLs.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/CardImageURLs.txt	1402847
+plugins/CasterChronicles/CardImageURLs.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/CardImageURLs.txt	2567868
 
 CardURLFiles:
 CardImageURLs.txt

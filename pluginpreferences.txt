@@ -1,6 +1,6 @@
 <pluginpreferences>
 
-<lastversionupdate>171022</lastversionupdate>
+<lastversionupdate>180504</lastversionupdate>
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
@@ -20,6 +20,9 @@
 <canned>/draw7</canned>
 <canned>/playerchoose</canned>
 <canned>/spawn Coin</canned>
+<canned>Good game.</canned>
+<canned>/draw6</canned>
+<canned>/draw8</canned>
 <canned>Good game.</canned>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>times.ttf</fontkind0pos1>

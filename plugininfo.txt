@@ -6,6 +6,11 @@
 		<gamezonetoloadto>Deck</gamezonetoloadto>
 		<shuffle>yes</shuffle>
 	</deckzone>
+	<deckzone>
+		<label>Extra Deck</label>
+		<gamezonetoloadto>Extra Deck</gamezonetoloadto>
+		<shuffle>no</shuffle>
+	</deckzone>
 		
 	<gamezone>
 		<label>Hand</label>
@@ -14,6 +19,11 @@
 	</gamezone>
 	<gamezone>
 		<label>Deck</label>
+		<visibletoowner>no</visibletoowner>
+		<visibletoothers>no</visibletoothers>
+	</gamezone>
+	<gamezone>
+		<label>Extra Deck</label>
 		<visibletoowner>no</visibletoowner>
 		<visibletoothers>no</visibletoothers>
 	</gamezone>

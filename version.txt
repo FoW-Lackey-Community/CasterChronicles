@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>171023</lastupdateYYMMDD>
-<versionurl>https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/updatelist.txt</updateurl>
-<message>Update macro<message>
+<lastupdateYYMMDD>180505</lastupdateYYMMDD>
+<versionurl>https://raw.githubusercontent.com/topduckteam/CasterChronicles/master/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/topduckteam/CasterChronicles/master/updatelist.txt</updateurl>
+<message>Update the last extension<message>
 </version>

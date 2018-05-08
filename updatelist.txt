@@ -1,10 +1,10 @@
 CasterChronicles	05-05-18
 
-plugins/CasterChronicles/plugininfo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/plugininfo.txt	355046
+plugins/CasterChronicles/plugininfo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/plugininfo.txt	374909
 plugins/CasterChronicles/version.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/version.txt	32016
 plugins/CasterChronicles/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/sets/setimages/general/cardback.png	-181008
-plugins/CasterChronicles/pluginpreferences.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/pluginpreferences.txt	250996
-plugins/CasterChronicles/updatelist.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/updatelist.txt	106757
+plugins/CasterChronicles/pluginpreferences.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/pluginpreferences.txt	256018
+plugins/CasterChronicles/updatelist.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/updatelist.txt	140193
 
 plugins/CasterChronicles/sets/Advent_of_Demons.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/CasterChronicles/master/sets/Advent_of_Demons.txt	3552745
 plugins/CasterChronicles/sets/Dimension_Battle_Royal.txt	https://raw.githubusercontent.com/topduckteam/CasterChronicles/master/sets/Dimension_Battle_Royal.txt	2439777

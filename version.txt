@@ -1,5 +1,5 @@
 <version>
-<lastupdateYYMMDD>180505</lastupdateYYMMDD>
+<lastupdateYYMMDD>180507</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/topduckteam/CasterChronicles/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/topduckteam/CasterChronicles/master/updatelist.txt</updateurl>
 <message>Update the last extension<message>
